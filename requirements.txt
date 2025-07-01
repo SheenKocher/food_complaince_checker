@@ -13,6 +13,7 @@ transformers
 sentence-transformers
 huggingface-hub
 PyMuPDF
+pypdf
 faiss-cpu
 langchain-text-splitters
 duckduckgo_search
